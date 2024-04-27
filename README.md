@@ -5,8 +5,11 @@ This Java application allows students to book tutoring or office-hour appointmen
 ## Classes
 
 -**Appointment**: Holds information about the appointment, including the student's name, venue, and purpose of the meeting. Contains various accessor and mutator methods.
+
 -**DailyApptSchedule** : Manages a daily schedule of appointments, represented by an array. Provides methods to add, display, remove, and reschedule appointments.
+
 -**WeeklyApptSchedule**: Maintains a weekly schedule of appointments, consisting of five DailyApptSchedule objects for each day of the workweek. Offers functionality to reschedule appointments for a specific day.
+
 -**Test**: Contains test methods to verify the functionality of the 'Appointment' class. It includes tests for getting and setting the studet name, venue and appointment purpose. 
 
 ## Tasks
