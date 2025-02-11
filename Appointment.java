@@ -1,5 +1,4 @@
 import java.time.LocalDateTime;
-
 public class Appointment {
     private String description;
     private LocalDateTime dateTime;
