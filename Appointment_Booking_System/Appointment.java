@@ -1,5 +1,4 @@
-                   
- 
+                    
 /**
  * A class to represent an appointment
  **/
