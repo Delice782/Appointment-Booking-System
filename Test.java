@@ -1,4 +1,4 @@
-                             
+                              
 import java.time.LocalDateTime;
 import java.time.Month;
 
@@ -21,4 +21,5 @@ public class Test {
         weeklySchedule.displaySchedule();
     }
 }
+
 
