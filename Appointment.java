@@ -1,8 +1,4 @@
-                                                                                                                                       
-import java.time.LocalDateTime;
-public class Appointment {
-    private String description;
-    private LocalDateTime dateTime;
+
 
     public Appointment(String description, LocalDateTime dateTime) {
         this.description = description; 
