@@ -1,4 +1,4 @@
-
+ 
 /**
  * A class that interacts with the user, allowing them to book an appointment for a particular day/time,
  * cancel an appointment, reschedule an appointment, or display the list of appointments.
@@ -180,4 +180,5 @@ public class Test {
         while (running);
     }
 }
+
 
