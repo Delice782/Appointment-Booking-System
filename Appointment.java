@@ -11,7 +11,7 @@ public Appointment(String description, LocalDateTime dateTime) {
     public LocalDateTime getDateTime() {
         return dateTime;
     }
-
+ 
     @Override
     public String toString() {
         return "Appointment [description=" + description + ", dateTime=" + dateTime + "]";
