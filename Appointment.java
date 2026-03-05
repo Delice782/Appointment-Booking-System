@@ -7,7 +7,7 @@ public Appointment(String description, LocalDateTime dateTime) {
     public String getDescription() {
         return description;
     }
-
+ 
     public LocalDateTime getDateTime() {
         return dateTime;
     }
