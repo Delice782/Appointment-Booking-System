@@ -1,5 +1,5 @@
   
-/**  
+/**   
  * A class to represent an appointment       
  **/ 
 public class Appointment {  
