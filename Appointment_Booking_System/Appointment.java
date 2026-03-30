@@ -1,7 +1,7 @@
   
 /**  
  * A class to represent an appointment       
- **/
+ **/ 
 public class Appointment {  
   private String studentName;
   private String venue;
