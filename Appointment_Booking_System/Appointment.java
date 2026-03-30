@@ -5,7 +5,7 @@
 public class Appointment {  
   private String studentName;
   private String venue;
-  private String purpose; 
+  private String purpose;  
  
   // Constructor
   public Appointment(String name, String location, String whatFor) {
