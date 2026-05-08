@@ -1,6 +1,6 @@
                                                                                                                                                            
 public Appointment(String description, LocalDateTime dateTime) {           
-        this.description = description;   
+        this.description = description;    
         this.dateTime = dateTime;   
     }
 
