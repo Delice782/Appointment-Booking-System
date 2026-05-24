@@ -1,6 +1,6 @@
 
 import java.util.HashMap;     
-import java.util.Map;
+import java.util.Map; 
 
 /**
  * A class to represent the appointment schedule for a given day.
